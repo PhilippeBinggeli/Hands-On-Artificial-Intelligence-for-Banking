@@ -86,7 +86,7 @@ def preprocess_data(f_name,list_flds):
 
 
 '''*************************************
-this function load data from a file path and create a monthly time index for the dataframe
+this function loads data from a file path and create a monthly time index for the dataframe
 '''
 def load_data(file_path_out,fld_name,idx_start,idx_end):
 
